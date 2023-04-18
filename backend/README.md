@@ -1,15 +1,13 @@
-# MongoDB Atlas Hackathon 
-# Storebay: A cross-platform ecommerce application [Android, IOS, Web]
+# HITK Shopping
+
 
 ### Overview of My Submission
-Storebay is an E-Commerce platform. It is built on the MERN stack (MongoDB, Express, React, Node js). It has features like a custom admin panel to manage users, PayPal checkout, reviews,android and ios app and more.
+HITK Shopping is an E-Commerce platform. It is built on the MERN stack (MongoDB, Express, React, Node js). It has features like a custom admin panel to manage users, PayPal checkout, reviews,android and ios app and more.
 
 
 ### Submission Category:
 E-Commerce 
 
-### Live Url 🎉🎉🥳
-https://storebayapp.herokuapp.com/
 
 ### Main Tech Stack
 
@@ -18,15 +16,13 @@ Tailwind CSS - For Styling
 Node Js, Express - For Backend
 PayPal : For Payment
 MongoDB Atlas : For Database 
-MongoDB Atlas Search : For autocomplete search functionality
-Capacitor Js: For converting existing web app to android and ios
 
 ### Installation Guide
 
 Step 1: Clone Github Repository
 
 ```bash
-git clone https://github.com/Narottam04/StoreBay.git
+git clone https://github.com/goodchai0/S.E.-Project-Online-shopping.git
 ```
 
 Step 2: Install dependencies in backend and frontend
